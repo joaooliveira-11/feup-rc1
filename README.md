@@ -1,3 +1,7 @@
+>**Project**
+>Curricular Unit: [Rede Computadores](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520330), 3rd year
+
+
 INSTRUCTIONS FOR SERIAL PORT PROTOCOL
 =====================================
 
